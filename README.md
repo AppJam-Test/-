@@ -1,6 +1,6 @@
 <h3 align="center"> [ Software Maestro 12기 미니프로젝트 16팀 ] </h3>
 
-<h1 align="center" font> <b>팀명(Team Name) : Hexadecimal</b> </h1>
+<h1 align="center" font> <b>✨팀명(Team Name) : Hexadecimal✨</b> </h1>
 
 <Br/>
 
