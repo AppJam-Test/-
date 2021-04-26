@@ -1,82 +1,68 @@
-# :package: 디톡스
+### Software Maestro 12기 미니프로젝트 16팀
 
-* <b> SOPT 27th SOPKERTONE
+# <b>팀명 : Hexadecimal</b>
 
-* 프로젝트 기간: 2020.11.21 ~ 2020.11.22
+<Br/>
 
+## <b> ✨ 목차 </b>
 
-<br>
-
-## :bookmark_tabs: 프로젝트 설명
-
-<b>'나만의 다이어리를 관리하듯 매일매일 쉽게 기록하고 성장할 수 있는 재고관리 플랫폼', 재고창고입니다. :package: </b><br/>
-발주시점을 놓치지 않게 도와주는 발주 알림 기능, 데이터를 쉽게 축적할 수 있는 재고 기록 기능이 있습니다. 또한，재고교환 기능을 통해 재고가 떨어지는 갑작스러운 상황에도 개인 사업자들간 네트워크 형성을 통해 재고를 보충할 수 있습니다.
- <br>
-
-## :heavy_check_mark: 핵심 기능 설명
-* (홈화면) 발주해야 할 재료의 목록 및 5일간 재고량 변화 출력
-* (재고기록) 날짜에 따른 재고기록 및 사용자별 카테고리 추가 및 삭제
-* (재고량 추이) 월 or 주차별 재고량 변화 그래프 표현 및 선택 주차 재료추이 비교
-* (재고교환) 잉여 재고교환을 위한 시스템 제공, 거리순 게시글 정렬 및 좋아요 목록 활성화
+> - 아이디어 소개
+> - 핵심 기능
+> - 사용 방법
+> - 팀원 소개 & 역할 분담
+> - 역할 분담
 
 <br>
 
-## :earth_americas: Team Role 
+## <b> ✨ 아이디어 소개 </b>
 
-#### :surfing_woman: 김민지
- 
-* 백엔드 리드 개발자
-
-#### :surfing_man: 김정욱
-
-* DB 설계 및 구축
-
-#### :surfing_woman: 안채린
-
-* DB 설계 및 구축
+> : <b>챗봇</b>을 통해 Software Maestro 페이지의 <b>연수생 / 멘토 / 특강 정보에 대한 내용을 제공</b>하는 서비스 <br>
 
 <br>
 
-## :blue_book: Package
+## <b> ✨ 핵심 기능 </b>
 
-사용 패키지(모듈)은 다음과 같습니다.
-
-* **crypto** : 패스워드 암호화 및 인증 
-* **express** : 웹, 서버 개발 프레임워크
-* **express-formidable** : form-data 파싱 도구
-* **jsonwebtoken** : JWT(Json Web Token) 생성 및 인증 
-* **multer** : 파일 업로드 도구
-* **multer-s3** : AWS S3 파일 업로드 도구
-* **rand-token** : 랜덤 토큰 생성 도구
-
-``` json
- "dependencies": {
-    "aws-sdk": "^2.713.0",
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "jade": "~1.11.0",
-    "jsonwebtoken": "^8.5.1",
-    "morgan": "~1.9.1",
-    "multer": "^1.4.2",
-    "multer-s3": "^2.9.0",
-    "nodemailer": "^6.4.10",
-    "passport": "^0.4.1",
-    "passport-kakao": "^1.0.0",
-    "promise-mysql": "^4.1.3",
-    "rand-token": "^1.0.1"
-  }
-```
+> - 검색 기능
+>   - 연수생 검색 <br>
+>     : 관심 기술을 기반으로 연수생 목록 검색
+>   - 멘토 검색 <br>
+>     : 관심 기술을 기반으로 멘토 목록 검색
+>   - 특강 검색 <br>
+>     : 제목 / 작성자를 기반으로 특강 목록 검색
+> - 알람 기능
+>   - update된 특강 정보 알람 <br>
+>     : 정기적인 크롤링으로 갱신된 특강 내용 알람 전송
 
 <br>
 
-## :computer: 개발자
+## <b> ✨ 사용 방법 </b>
 
-* [김민지](https://github.com/neity16)
-* [김정욱](https://github.com/camel-man-ims)
-* [안채린](https://github.com/100sun)
+> ### [ 연수생 / 멘토 검색 ]
+>
+> - 스크린샷 / gif
+> - 스크린샷 / gif
+> - 스크린샷 / gif
+
+> ### [ 특강 검색 ]
+>
+> - 스크린샷 / gif
+> - 스크린샷 / gif
+> - 스크린샷 / gif
+
+> ### [ 특강 알람 ON ]
+>
+> - 스크린샷 / gif
+> - 스크린샷 / gif
+> - 스크린샷 / gif
 
 <br>
 
+## <b> ✨ 팀원 소개 & 역할 분담 ✨ </b>
 
+> |                                 **🎩 [송기연](https://github.com/neity16)**                                  |                                **🐧 [김정욱](https://github.com/tjdud0123)**                                 |                                 **☀️ [정재영](https://github.com/Say-young)**                                 |
+> | :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+> | ![jw](https://user-images.githubusercontent.com/55133871/103453540-80c9d280-4d1e-11eb-8f0d-552e910ab104.png) | ![sy](https://user-images.githubusercontent.com/55133871/103453538-7f98a580-4d1e-11eb-9279-5e5ed547315e.png) | ![say](https://user-images.githubusercontent.com/55133871/103453542-81626900-4d1e-11eb-9333-e8ae0f06fe3b.png) |
+> |                                                  역할 분담                                                   |                                                  역할 분담                                                   |                                                   역할 분담                                                   |
+> |                                 **🎩 [정재영](https://github.com/neity16)**                                  |                                **🐧 [최연석](https://github.com/tjdud0123)**                                 |                                 **☀️ [홍희림](https://github.com/Say-young)**                                 |
+> | ![jw](https://user-images.githubusercontent.com/55133871/103453540-80c9d280-4d1e-11eb-8f0d-552e910ab104.png) | ![sy](https://user-images.githubusercontent.com/55133871/103453538-7f98a580-4d1e-11eb-9279-5e5ed547315e.png) | ![say](https://user-images.githubusercontent.com/55133871/103453542-81626900-4d1e-11eb-9333-e8ae0f06fe3b.png) |
+> |                                                  역할 분담                                                   |                                                  역할 분담                                                   |                                                   역할 분담                                                   |
