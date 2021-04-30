@@ -42,21 +42,15 @@
 
 > ### :fist: [ 연수생 / 멘토 검색 ]
 >
-> - 스크린샷 / gif
-> - 스크린샷 / gif
-> - 스크린샷 / gif
+> - <img src="https://images.velog.io/images/neity16/post/45309a13-02e0-4e82-99f3-40127dfed2da/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-04-30%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2011.37.57.png" width="900"/>
+> - <img src="https://images.velog.io/images/neity16/post/b5b97878-f2a7-45e4-9849-232df999c1c4/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-04-30%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2011.43.55.png" width="900"/>  
 
 > ### :point_up: [ 특강 검색 ]
 >
-> - 스크린샷 / gif
-> - 스크린샷 / gif
-> - 스크린샷 / gif
+> - <img src="https://images.velog.io/images/neity16/post/4dc0587e-308b-4432-8b51-6b0f71ff370f/ezgif.com-video-to-gif%20(3).gif" width="600"/>  
 
-> ### :v: [ 특강 알람 ON ]
->
-> - 스크린샷 / gif
-> - 스크린샷 / gif
-> - 스크린샷 / gif
+> ### :v: [ 특강 알람 ]
+> - <img src="https://images.velog.io/images/neity16/post/92bc0ffd-6715-4642-9ca3-fa29520d506c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-04-30%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2011.24.32.png" width="300"/>  
 
 <br>
 
